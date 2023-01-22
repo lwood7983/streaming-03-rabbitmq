@@ -84,7 +84,7 @@ Each of the version 2 programs include an error as well.
 1. Everything the function needs comes in through the arguments.
 1. A function may - or may not - return a value. 
 1. When we open a connection, we should close the connection. 
-1. Which of the 4 files will always close() the connection?:  Both of the receiving connections will have to be forced close.
+1. Which of the 4 files will always close() the connection?: They each will close, but the the receiving files can be interrupted to close.
 1. Search GitHub for if __name__ == "__main__"
 1. How many hits did you get?: 1,885 results under discussions.  I'm not sure if I searched correctly
 1. Learn and understand this common Python idiom.
