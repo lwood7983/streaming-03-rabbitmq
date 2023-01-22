@@ -63,7 +63,7 @@ To send a new message, you'll only make one change.
 Updating and improving code is called 'refactoring'. 
 Use your skills to keep coding enjoyable. 
 - Emmit and Receiving screenshots for Version 1.
-![Version1Emit&Receiving](C:\Users\loniw\OneDrive\Documents\School\WebStreaming\streaming-03-rabbitmq\Assignmet3_version1_screenshot.png)
+![Version1Emit&Receiving](Assignmet3_version1_screenshot.png)
 
 ## Version 2
 
