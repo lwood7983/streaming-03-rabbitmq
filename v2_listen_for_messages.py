@@ -4,6 +4,9 @@ Always customize this docstring.
 
 Add your name, date, and a description of the program.
 
+Name:  Loni Wood
+Date:  January 22, 2023
+Running version2 listening so v2_emit_messaging has something to receive
 Listens for messages on the queue.
 This process runs continously. 
 
@@ -89,6 +92,6 @@ def main(hn: str = "localhost"):
 # without executing the code below.
 # If this is the program being run, then execute the code below
 if __name__ == "__main__":
-    main("localhostttt")
+    main("localhost")
   
      

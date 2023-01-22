@@ -4,6 +4,9 @@
     Author: Denise Case
     Date: January 14, 2023
 
+    Name:  Loni Wood
+    Date:  Janaury 22, 2023
+    Run Version2 emit_message
 """
 
 # add imports at the beginning of the file
@@ -44,4 +47,4 @@ def send_message(host: str, queue_name: str, message: str):
 # without executing the code below.
 # If this is the program being run, then execute the code below
 if __name__ == "__main__":
-    send_message("llllocalhost","hello","Hello World!")
+    send_message("localhost","hello","version2 message again")

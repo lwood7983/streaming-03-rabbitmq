@@ -62,6 +62,8 @@ As long as the process is running, we cannot use this terminal for other command
 To send a new message, you'll only make one change.
 Updating and improving code is called 'refactoring'. 
 Use your skills to keep coding enjoyable. 
+- Emmit and Receiving screenshots for Version 1.
+![Version1Emit&Receiving]
 
 ## Version 2
 
@@ -95,3 +97,6 @@ Each of the version 2 programs include an error as well.
 ## Multiple Terminals
 
 ![Mac Example](screenshot.png)
+
+
+[def]: C:\Users\loniw\OneDrive\Documents\School\WebStreaming\streaming-03-rabbitmq\Assignmet3_version1_screenshot.png
