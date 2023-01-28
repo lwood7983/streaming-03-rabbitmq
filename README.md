@@ -62,8 +62,7 @@ As long as the process is running, we cannot use this terminal for other command
 To send a new message, you'll only make one change.
 Updating and improving code is called 'refactoring'. 
 Use your skills to keep coding enjoyable. 
-- Emmit and Receiving screenshots for Version 1.
-![Version1Emit&Receiving](Assignmet3_version1_screenshot.png)
+
 
 ## Version 2
 
@@ -89,11 +88,7 @@ Each of the version 2 programs include an error as well.
 1. How many hits did you get?: 1,885 results under discussions.  I'm not sure if I searched correctly
 1. Learn and understand this common Python idiom.
 
--Emit Message Screenshot Version 2
-![EmitVersion2](Assignment3_version2_emit.png)
 
--Recieving Message Screenshot Version 2
-![ReceivingVersion2](Assignment3_version2_receiving.png)
 ## Reference
 
 - [RabbitMQ Tutorial - Hello, World!](https://www.rabbitmq.com/tutorials/tutorial-one-python.html)
@@ -101,7 +96,14 @@ Each of the version 2 programs include an error as well.
 
 ## Multiple Terminals
 
-![Mac Example](screenshot.png)
+- Emmit and Receiving screenshots for Version 1.
+![Version1Emit&Receiving](Assignmet3_version1_screenshot.png)
+
+-Emit Message Screenshot Version 2
+![EmitVersion2](Assignment3_version2_emit.png)
+
+-Recieving Message Screenshot Version 2
+![ReceivingVersion2](Assignment3_version2_receiving.png)
 
 
 [def]: C:\Users\loniw\OneDrive\Documents\School\WebStreaming\streaming-03-rabbitmq\Assignmet3_version1_screenshot.png
